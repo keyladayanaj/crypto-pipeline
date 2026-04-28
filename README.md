@@ -100,13 +100,4 @@ make clean   # parar + remover volumes + limpar cache
 
 ---
 
-## 💡 Próximos passos (ideias para evoluir)
-
-- [ ] Notificações por e-mail/Telegram nos alertas
-- [ ] Deploy gratuito no Railway (Postgres) + Streamlit Cloud (dashboard)
-- [ ] Análise de correlação entre moedas
-- [ ] Previsão de preço com Prophet/scikit-learn
-
----
-
 *Dados fornecidos pela [CoinGecko API](https://www.coingecko.com/en/api) (plano gratuito, sem chave necessária)*
