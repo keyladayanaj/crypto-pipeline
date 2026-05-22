@@ -5,19 +5,18 @@ Pipeline de dados end-to-end que coleta preços de criptomoedas da API CoinGecko
 
 ## 📊 Preview do Dashboard
 
-![Crypto Market Tracker](assets/crypto_dashboard_completo.png)
 
 ### Visão Geral e Top Coins
-![Visão Geral](assets/crypto_visao_geral_tabela.png)
+<img width="1304" height="535" alt="crypto_visao_geral_tabela" src="https://github.com/user-attachments/assets/783e1da0-0a94-41f0-94a2-9151d47b3053" />
 
 ### Maiores Altas e Quedas (24h)
-![Altas e Quedas](assets/crypto_maiores_altas_quedas.png)
+<img width="1304" height="446" alt="crypto_maiores_altas_quedas" src="https://github.com/user-attachments/assets/17c450e7-4f0d-4408-ae54-7cbd07637a17" />
 
 ### Histórico de Preço
-![Histórico](assets/crypto_historico_preco.png)
+<img width="1304" height="499" alt="crypto_historico_preco" src="https://github.com/user-attachments/assets/c88bfde5-4360-4fb5-a41f-18bdb57b3e66" />
 
 ### Alertas de Variação Extrema
-![Alertas](assets/crypto_alertas_variacao.png)
+<img width="1304" height="304" alt="crypto_alertas_variacao" src="https://github.com/user-attachments/assets/b3e60c99-e898-47af-8084-0498ffd201ff" />
 
 ---
 
