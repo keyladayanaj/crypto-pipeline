@@ -1,6 +1,23 @@
 # 📈 Crypto Market Tracker
-
 Pipeline de dados end-to-end que coleta preços de criptomoedas da API CoinGecko a cada hora, armazena em PostgreSQL e exibe em um dashboard interativo com Streamlit.
+
+---
+
+## 📊 Preview do Dashboard
+
+![Crypto Market Tracker](assets/crypto_dashboard_completo.png)
+
+### Visão Geral e Top Coins
+![Visão Geral](assets/crypto_visao_geral_tabela.png)
+
+### Maiores Altas e Quedas (24h)
+![Altas e Quedas](assets/crypto_maiores_altas_quedas.png)
+
+### Histórico de Preço
+![Histórico](assets/crypto_historico_preco.png)
+
+### Alertas de Variação Extrema
+![Alertas](assets/crypto_alertas_variacao.png)
 
 ---
 
@@ -47,6 +64,7 @@ crypto-pipeline/
 │   └── scheduler.py    # Orquestração e agendamento (entry point)
 ├── dashboard/
 │   └── app.py          # Dashboard Streamlit completo
+├── assets/             # Imagens do dashboard
 ├── tests/
 │   ├── test_collector.py
 │   └── test_database.py
